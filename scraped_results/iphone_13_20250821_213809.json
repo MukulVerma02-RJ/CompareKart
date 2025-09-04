@@ -1,0 +1,43 @@
+{
+  "product": "iphone 13",
+  "started_at": "2025-08-21T21:38:09.831394",
+  "duration_ms": 63020,
+  "results": [
+    {
+      "site": "Amazon",
+      "title": "Apple iPhone 13 (128GB) - Midnight",
+      "price": "₹43,900",
+      "link": "https://www.amazon.in/Apple-iPhone-13-128GB-Midnight/dp/B09G9HD6PD/ref=sr_1_1?crid=16XE8KX7C244L&dib=eyJ2IjoiMSJ9.8h9A_YSPiLCsRbGj7EQ9tsL0BdwAP_rIhY8Os9-vM6Z6YYmEpHxp1ek5oho5l2JwUMbx4vxGE4j2X440OlhMD6LdU7GjF47yqY8it1-xZ7XXeW2sL3HFOp3PI2jiE31JgPiGBFZ1FfLslDLlStejfmAFqeoNjJabFX012l0iKfKtEiP5wJWvdm-vZ1TYkXYxy5LoMoLYYge_NEqoIj970cebY9_zzpdg-8vQ-5kdT7A.Rp3JnWAfcKRyBkIZH4z7qIxAfdBOkugLXQw6Df2bsXw&dib_tag=se&keywords=iphone+13&nsdOptOutParam=true&qid=1755792524&sprefix=iphone+13%2Caps%2C666&sr=8-1",
+      "error": null
+    },
+    {
+      "site": "Croma",
+      "title": "Apple iPhone 13 (128GB, Starlight White)",
+      "price": "₹45,990",
+      "link": "https://www.croma.com/apple-iphone-13-128gb-starlight-white-/p/243460",
+      "error": null
+    },
+    {
+      "site": "Reliance Digital",
+      "title": "Apple iPhone 13 128 GB, Starlight",
+      "price": "₹44,990",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-13-128-gb-startlight-ktt321bi?internal_source=search_collection",
+      "error": null
+    },
+    {
+      "site": "Vijay Sales",
+      "title": "Apple iPhone 13 (128 GB Storage, Starlight)",
+      "price": "₹43,490",
+      "link": "https://www.vijaysales.com/p/P193007/193010/apple-iphone-13-128-gb-storage-starlight",
+      "error": null
+    },
+    {
+      "site": "Flipkart",
+      "title": "Apple iPhone 13 (Starlight, 128 GB)",
+      "price": "₹44,999",
+      "link": "https://www.flipkart.com/apple-iphone-13-starlight-128-gb/p/itmc9604f122ae7f?pid=MOBG6VF5ADKHKXFX&lid=LSTMOBG6VF5ADKHKXFX4LCPEV&marketplace=FLIPKART&q=iphone+13&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=d1ea8547-eb01-448b-a75a-e658eeb50200.MOBG6VF5ADKHKXFX.SEARCH&ppt=hp&ppn=homepage&ssid=pszfv98so00000001755792536638&qH=c68a3b83214bb235",
+      "error": null
+    }
+  ],
+  "saved_to": "scraped_results/iphone_13_20250821_213809.json"
+}
